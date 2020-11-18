@@ -1,0 +1,87 @@
+body{
+    background-color: #f6f5f5;
+    margin:0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+section{
+    width:100%;
+    height: 100vh;
+    background-image: url('/img/valorant.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.warna-bg{
+	background: linear-gradient(to right, rgba(91,134,229, .92), rgba(54,209,220, .92));
+}
+
+section h1{
+    color: antiquewhite;
+    font-size: 80pt;
+    font-style: client bold;
+    text-shadow: 1px 1px 10px rgb(180, 25, 25);
+    text-align: center;
+}
+section p {
+
+    color: antiquewhite;
+    text-shadow: 1px 1px 10px rgb(180, 25, 25);
+    text-align: center;
+}
+.text-container{
+    position: absolute;
+    left:13%;
+    top:42%;
+    transform:translate(-13%,-42%);
+}
+.about-container{
+	width:80%;
+	height:330px;
+	background:#121826;
+	border-radius:20px;
+	box-shadow:2px 2px 12px rgba(0,0,0,0.2);
+	display: flex;
+	margin: -7%  auto 20px auto;
+	position: relative;
+	justify-content:space-evenly;
+	align-items: center;
+}
+.about-container img{
+	height:250px;
+}
+.about-text{
+	width:500px;
+} 
+.about-text p:nth-child(1){
+	color:#88ffff;
+	font-family: myriad pro;
+	font-weight:bold;
+	font-size:23px;
+	line-height:0px;
+}
+.about-text p:nth-child(2){
+	color:#88ffff;
+	font-size:13px;
+	font-family: myriad pro;
+	font-weight:bold;
+	line-height:5px;
+}
+.about-text p:nth-child(3),.about-text p:nth-child(4){
+	color:#ffe3bd;
+	font-family:calibri;
+	font-size:16px;
+}
+.about-text a{
+	width:100px;
+	height: 40px;
+	color:#ffffff;
+	outline:none;
+	border:none;
+    font-family: client bold;
+    font-size: 18px;
+	background-color:#be2f2f;
+}
