@@ -1,0 +1,37 @@
+body{
+    background-color: #f6f5f5;
+    margin:0px;
+    padding: 0px;
+}
+section .db{
+    width:100%;
+    height: 100vh;
+    background-image: url('/img/skye.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size:15pt;
+    font-style: client bold;
+    text-shadow: 1px 1px 10px rgb(180, 25, 25);
+    text-align: left;
+}
+h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h3{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+section .skye{
+    width:100%;
+    height: 100vh;
+    background-image: url('/img/skye2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+

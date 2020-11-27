@@ -1,0 +1,48 @@
+body{
+    background-color: #f6f5f5;
+    margin:0px;
+    padding: 0px;
+}
+section .db{
+    width:100%;
+    height: 100vh;
+    background-image: url('/img/patch1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-size:15pt;
+    font-style: client bold;
+    text-shadow: 1px 1px 10px rgb(180, 25, 25);
+    text-align: left;
+}
+h2{
+    color: rgb(5, 5, 5);
+    text-align: center;
+}
+h3{
+    color: rgb(5, 5, 5);
+    text-align: center;
+}
+h4{
+    color: rgb(255, 255, 255);
+    font-size:15pt;
+    font-style: client bold;
+    text-shadow: 1px 1px 10px rgb(180, 25, 25);
+    text-align: left;
+}
+h5{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+section .img{
+    width:100%;
+    height: 100vh;
+    background-image: url('/img/patch3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+

@@ -15,7 +15,7 @@ a{
 section{
     width:100%;
     height: 100vh;
-    background-image: url('/img/valorant.jpg');
+    background-image: url('/img/jet.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -33,7 +33,7 @@ section h1{
 section p {
 
     color: antiquewhite;
-    text-shadow: 1px 1px 10px rgb(180, 25, 25);
+    text-shadow: 1px 1px 10px rgb(255, 255, 255);
     text-align: center;
 }
 .text-container{
